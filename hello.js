@@ -1,1 +1,1 @@
-document.write("hello");
+alert("🤯🤯🤯")
